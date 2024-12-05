@@ -3,6 +3,8 @@ A simple Discord bot (WORK IN PROGRESS)
 
 Hey, this is my first github thing, so forgive me if i do some stuff wrong
 
+small disclaimer, idk what pull requests and stuff are, so please forgive me if i dont do them/do them wrong. im still learning github!
+
 pretty much just some python code, this uses the PyCharacterAI library by [Xtr4F](https://github.com/Xtr4F/PyCharacterAI/tree/main)
 
 make sure to have discord.py installed too. i did this on my raspberry pi 4b, so things might be a bit different
